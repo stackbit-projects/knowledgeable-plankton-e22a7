@@ -40,17 +40,17 @@
                 "no_follow": false
             },
             {
-                "label": "Nous contacter",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "label": "Comprendre pour agir",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Nous contacter",
+                "url": "/contact",
+                "style": "link"
             }
         ],
         "has_social": true,
