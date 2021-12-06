@@ -28,5 +28,5 @@ seo:
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
-layout: /posts/sdb
+layout: sdb
 ---
