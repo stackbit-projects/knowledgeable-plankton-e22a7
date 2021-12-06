@@ -14,6 +14,14 @@
                 "style": "link"
             },
             {
+                "label": "La boutique",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Qui sommes-nous ?",
                 "url": "/about",
                 "style": "link"
@@ -27,14 +35,6 @@
                 "label": "Nous contacter",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "La boutique",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_social": true,
