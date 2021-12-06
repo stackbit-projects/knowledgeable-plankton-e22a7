@@ -31,7 +31,7 @@ form_fields:
     label: >-
       En cochant cette case et en remplissant ce formulaire, vous acceptez
       d'être contacté.
-submit_label: Send Message
+submit_label: Envoyer
 seo:
   title: Get in Touch
   description: This is the contact page
