@@ -37,13 +37,6 @@
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
             }
         ],
         "background_img": "images/image-background-blog.png"
