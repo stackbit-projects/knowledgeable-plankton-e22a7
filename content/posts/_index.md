@@ -1,5 +1,5 @@
 ---
-title: Salle de Bain
+title: Posts
 has_more_link: true
 more_link_text: Keep reading
 seo:
