@@ -28,7 +28,7 @@
             },
             {
                 "label": "Prendre soin de mon foyer",
-                "url": "#",
+                "url": "/posts/soin-de-mon-foyer",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
