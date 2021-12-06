@@ -7,7 +7,7 @@
 
       <div class="post-feed">
         <h1>{{ $cat := .Params.category }}</h1>
-        {{ $posts := (.Site.GetPage "section" "/posts/sdb" ).Pages }}
+        {{ $posts := (.Site.GetPage "section" "/posts/" $post.Params.title ).Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
           {{ $posts_sorted := $posts.ByDate.Reverse }}
