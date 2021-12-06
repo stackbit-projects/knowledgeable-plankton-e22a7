@@ -6,6 +6,8 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed">
+        {{ .Params.img_path }}
+      </div>{{ .Params.img_path }}</div>
         {{ $posts := (.Site.GetPage "section" "/posts/" .Params.category).Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
