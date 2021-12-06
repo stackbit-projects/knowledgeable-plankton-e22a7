@@ -1,5 +1,5 @@
 ---
-title: "Salle de Bains"
+title: "Salle de Bainssss"
 has_more_link: true
 more_link_text: Keep reading
 seo:
