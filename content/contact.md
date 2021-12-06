@@ -29,8 +29,8 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
+      En cochant cette case et en remplissant ce formulaire, vous acceptez
+      d'être contacté.
 submit_label: Send Message
 seo:
   title: Get in Touch
