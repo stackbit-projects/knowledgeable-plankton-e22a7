@@ -30,5 +30,5 @@ seo:
       value: images/home.jpg
       relativeUrl: true
 layout: index
-category: "cpa"
+category: "comprendre-agir"
 ---
