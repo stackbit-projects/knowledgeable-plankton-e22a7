@@ -1,5 +1,5 @@
 ---
-title: "Salle de Painssss"
+title: "Prendre soin de moi"
 has_more_link: true
 more_link_text: Keep reading
 img_path: images/Prendre-soin-de-moi.png
