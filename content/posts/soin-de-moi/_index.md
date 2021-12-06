@@ -30,5 +30,5 @@ seo:
       value: images/home.jpg
       relativeUrl: true
 layout: index
-category: "sdb"
+category: "soin-de-moi"
 ---
