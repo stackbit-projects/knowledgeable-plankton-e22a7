@@ -2,7 +2,7 @@
 title: "Prendre soin de mon foyer"
 has_more_link: true
 more_link_text: Keep reading
-img_path: images/Prendre-soin-de-moi.png
+img_path: images/Prendre-soin-de-mon-foyer.png
 seo:
   title: Stackbit Fjord Theme
   description: The preview of the Fjord theme
