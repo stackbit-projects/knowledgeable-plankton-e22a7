@@ -7,7 +7,7 @@
 
       <div class="post-feed">
           {{ $cat :=  (printf "/posts/" .Params.category) }}
-        <h1>{{ $cat :=  (printf "/posts/" .Params.category) }}</h1>
+        <h1>{{ $cat }}</h1>
         {{ $posts := (.Site.GetPage "section" $cat ).Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
