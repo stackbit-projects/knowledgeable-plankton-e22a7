@@ -30,4 +30,5 @@ seo:
       value: images/home.jpg
       relativeUrl: true
 layout: index
+category: "sdb"
 ---
