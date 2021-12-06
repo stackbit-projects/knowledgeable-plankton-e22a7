@@ -2,7 +2,7 @@
 title: "Salle de Painssss"
 has_more_link: true
 more_link_text: Keep reading
-img_path: images/about.jpg
+img_path: images/Prendre-soin-de-moi.png
 seo:
   title: Stackbit Fjord Theme
   description: The preview of the Fjord theme
