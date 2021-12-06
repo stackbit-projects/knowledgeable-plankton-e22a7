@@ -22,11 +22,6 @@
                 "no_follow": false
             },
             {
-                "label": "Qui sommes-nous ?",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Prendre soin de soi",
                 "url": "/posts/sdb",
                 "style": "link"
@@ -46,6 +41,11 @@
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Qui sommes-nous ?",
+                "url": "/about",
+                "style": "link"
             },
             {
                 "label": "Nous contacter",
