@@ -29,5 +29,4 @@ seo:
       value: images/home.jpg
       relativeUrl: true
 layout: home
-category: "sdmf"
 ---
