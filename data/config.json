@@ -74,7 +74,7 @@
         "background_img": "images/image-background-blog-0d18fb48.png"
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Tiny Happy"
     },
     "domain": "https://knowledgeable-plankton-e22a7.netlify.app"
 }
