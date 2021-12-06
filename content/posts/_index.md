@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: "Prendre soin de mon foyer"
 has_more_link: true
 more_link_text: Keep reading
 seo:
