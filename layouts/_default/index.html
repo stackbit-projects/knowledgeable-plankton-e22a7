@@ -6,8 +6,6 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed">
-          {{ $cat :=  strings.Join("/posts/", .Params.category) }}
-        <h1>{{ $cat }}</h1>
         {{ $posts := (.Site.GetPage "section" "/posts/sdb" ).Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
