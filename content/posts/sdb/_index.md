@@ -17,7 +17,7 @@ seo:
       value: The preview of the Fjord theme
       keyName: property
     - name: 'og:image'
-      value: images/Prendre-soin-de-moi.png
+      value: images/home.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
