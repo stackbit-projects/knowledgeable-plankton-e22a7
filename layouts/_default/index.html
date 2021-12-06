@@ -7,7 +7,7 @@
 
       <div class="post-feed">
         {{ .Params.img_path }}
-      </div>{{ .Params.img_path }</div>
+      </div>{{ .Params.img_path }}</div>
         {{ $posts := (.Site.GetPage "section" "/posts/").Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
