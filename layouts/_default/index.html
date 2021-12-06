@@ -6,7 +6,7 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed">
-          {{ $category := dict "Site" .Site "page" . "category" .Params.category }}
+        {{ $category := dict "Site" .Site "page" . "category" .Params.category }}
         {{ $posts := (.Site.GetPage "section" "/posts/".$category).Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
