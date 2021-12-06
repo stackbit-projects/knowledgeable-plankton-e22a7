@@ -6,7 +6,7 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed">
-          {{ $cat :=  strings.Join("/posts/", .Params.category)(printf "%s%s" /posts/" .Params.category) }}
+          {{ $cat :=  strings.Join("/posts/", .Params.category)(ts/" .Params.category) }}
         <h1>{{ $cat }}</h1>
         {{ $posts := (.Site.GetPage "section" $cat ).Pages }}
         {{ $posts_count := $posts | len }}
