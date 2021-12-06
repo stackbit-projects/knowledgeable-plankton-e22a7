@@ -6,7 +6,7 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed">
-          <h1>{{}}.Params.category</h1>
+          <h1>{{ .Params.category }}.Params.category</h1>
         {{ $posts := (.Site.GetPage "section" "/posts/.        {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
           {{ $posts_sorted := $posts.ByDate.Reverse }}
