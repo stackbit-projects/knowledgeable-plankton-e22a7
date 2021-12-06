@@ -41,6 +41,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
+category: "sdmf"
 ---
 
 ![Hiking](/images/2.jpg)
