@@ -1,5 +1,5 @@
 ---
-title: "Prendre soin de moi"
+title: "Prendre soin de mon foyer"
 has_more_link: true
 more_link_text: Keep reading
 img_path: images/Prendre-soin-de-moi.png
