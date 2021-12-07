@@ -1,6 +1,6 @@
 ---
 title: Nous contacter
-img_path: images/contact.jpg
+img_path: images/contact-b3bee6cd.png
 form_id: contactForm
 form_action: /success
 form_fields:
