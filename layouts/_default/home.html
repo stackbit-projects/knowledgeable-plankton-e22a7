@@ -12,7 +12,7 @@
         {{ if gt $posts_count 0 }}
           {{ $posts_sorted := $posts.ByDate.Reverse }}
           {{ range $post := $posts_sorted }}
-          {{ if $post.Params.layout }}
+          {{ if eq $post.Params.layout }}
           <article class="post">
             <header class="post-header">
               <h2 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h2>
