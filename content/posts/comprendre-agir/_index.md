@@ -2,7 +2,7 @@
 title: "Comprendre pour agir"
 has_more_link: true
 more_link_text: Keep reading
-img_path: images/comprendre-pour-agir.png
+img_path: images/comprendre-agir.png
 seo:
   title: Stackbit Fjord Theme
   description: The preview of the Fjord theme
