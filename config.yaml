@@ -10,6 +10,6 @@ markup:
     renderer:
       unsafe: true
 taxonomies:
-  category: categories
+  soin-de-moi: categories
   series: series
   tag: tags
