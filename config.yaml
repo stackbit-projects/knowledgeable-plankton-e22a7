@@ -4,7 +4,7 @@ taxonomies:
   stub: stub
 disableKinds:
   - RSS
-  -taxonomy
+  - taxonomy
   - taxonomyTerm
 markup:
   goldmark:
