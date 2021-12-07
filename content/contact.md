@@ -30,7 +30,7 @@ form_fields:
     name: consent
     label: >-
       En cochant cette case et en remplissant ce formulaire, vous acceptez
-      d'être contacté.
+      d'être contacté en retour.
 submit_label: Envoyer
 seo:
   title: Get in Touch
