@@ -1,7 +1,7 @@
 ---
 title: Qui sommes-nous ?
 subtitle: This is a short page about me and my work
-img_path: images/quisommesnous.png
+img_path: images/quisommesnous-1c327236.png
 seo:
   title: About Me
   description: A page about me and my work
