@@ -17,7 +17,7 @@ form_fields:
   - input_type: text
     name: Sujet
     label: Sujet
-    default_value: Sélectionner
+    default_value: T
     options:
       - Error on the site
       - Sponsorship
